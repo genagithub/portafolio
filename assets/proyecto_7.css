@@ -1,4 +1,4 @@
-.e7_body  {
+.e7_body {
     width:100%;
     height:100%;
     display:flex;
@@ -6,18 +6,18 @@
     justify-content:center;
     align-items:center
 }
-.e7_dashboard{
-    margin: 25px 0 75px 0;
-    width:100%;
-    height:1000px;
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-    align-items:center;
-    background-color: white;
-    box-shadow:4px 4px 15px 0 black;
+.e7_title {
+    text-align:initial;
+    color:white;
+    font-family:sans-serif;
+    margin:15px 0;
 }
-.e7_graph{
+.e7_dropdown {
+    width:175px;
+    height:25px;
+    margin:15px 650px 25px 0;
+}
+.e7_graph {
     width: 100%;
     height: 100%;
 }
