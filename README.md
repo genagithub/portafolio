@@ -1,2 +1,2 @@
-# portafolio_2
-Diferentes proyectos donde se extraen, manipulan, procesan y se analizan profundamente conjuntos de datos con el objetivo de utilizarlos en la creación de modelos clasificadores o regresores. Por último, se genera un dashboard interactivo que ilustre una descripción y conclusión final del proyecto.
+### Aclaración
+en el directorio 'data' se encuentra un script que crea una base de datos en MySQL que es utilizada en el proyecto 3
