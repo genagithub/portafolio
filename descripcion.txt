@@ -1,0 +1,15 @@
+Proyecto 1 ★★★✬☆: Trabajando con el Dataset 'Titanic', donde describimos las características numéricas y categóricas de la variable objetivo, y cómo estas influyen en su clase asociada. Por último, se crea un dashboard que muestra el rendimiento de un modelo de clasificación implementado.
+
+Proyecto 2 ★★✬☆☆: Ejemplo que utiliza el popular Dataset 'Tips', donde introducimos la regresión lineal y las diferentes suposiciones que requiere su modelación. Al finalizar, se constituye un dashboard que ilustra un EDA(gráficos de distribución, pruebas de normalidad, medidas) y el modelo lineal.
+
+Proyecto 3 ★★★★☆: En esta ocasión se obtiene la información de una Database, más precisamente de MySQL. Se realizan consultas con el fin de conseguir los datos de diferentes entidades, en este caso de componentes de negocio con el fin de analizar y graficar los KPIs de cada uno.
+
+Proyecto 4 ★★✬☆☆: Al igual que el segundo ejemplo, el Dataset empleado es 'Iris', muy conocido entre la comunidad. Se genera un clasificador que luego es puesto en acción, su función es graficar y predecir la posible clase de los datos que le enviamos por medio de una entrada.
+
+Proyecto 5 ★★★★★: Ejemplo basado analizar la distribución de frecuencia en las distintas variables categóricas(nominales y ordinales), y también la implementación de Bootsrapping mediante Random Forest. Como en todos los otros casos, se realiza una visualización final.
+
+Proyecto 6 ★★★★★: Mayor volumen de datos a trabajar, se desarrolla un aprendizaje supervisado y no supervisado, profundizamos en el metaaprendizaje y nos apoyamos en una función que ayudará a asignar los hiperparámetros óptimos del modelo.
+
+Proyecto 7 ★★★★☆: Análisis profundo de series temporales, se usan diferentes técnicas de esta área y se determina que clase de modelo nos conviene para un pronóstico funcional según los insights de la serie examinada.
+
+Proyecto 8 ★★★★☆: Web Scraping, se utiliza la librería Selenium y el manejo de excepciones con el objetivo de interactuar con Linkedin y extraer los datos provenientes para su posterior organización, limpieza y visualización.
