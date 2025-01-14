@@ -1,2 +1,2 @@
-### Descripción
-Cada proyecto está seccionado en diferentes partes que destacan observaciones o conceptos explicados y en todos se finaliza con una visualización donde se ilustra una conclusión 
+### Aclaración
+En el directorio 'data' se encuentra un script que descarga una base de datos llamada 'northwind' utilizada en el proyecto 3
