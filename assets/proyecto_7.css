@@ -12,10 +12,15 @@
     font-family:sans-serif;
     margin:15px 0;
 }
+.e7_dropdown_div{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
 .e7_dropdown {
     width:175px;
     height:25px;
-    margin:15px 650px 25px 0;
+    margin:15px 0 25px 0;
 }
 .e7_graph {
     width: 100%;
